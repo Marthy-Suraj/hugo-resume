@@ -1,5 +1,5 @@
-title = "Eddie Webb"
-baseURL = "https://example.com/"
+title = "Suraj Marthy"
+baseURL = "https://marthy-suraj.github.io"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -8,12 +8,12 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
-email = "email@domain.com"
+address = "Philadelphia, PA"
+email = "surajsbm@seas.upenn.edu"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
-phone = "1-555-555-1234"
+firstName = "Suraj"
+lastName = "Marthy"
+phone = "929-613-7802"
 profileImage = "img/TechChat.png"
 showEducation = true
 showExperience = true
